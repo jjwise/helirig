@@ -1,4 +1,4 @@
-# Shit to do
+# Things to do
 
 ## Tasks
 
